@@ -1,2 +1,3 @@
 # Dev.-Rap-em-Python
-Exercicios de aula
+Exercicio 3
+entrega 03/09
